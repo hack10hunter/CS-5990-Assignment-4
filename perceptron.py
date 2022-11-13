@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Weisheng Zhang
 # FILENAME: perceptron.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: single layer & multi-layer perceptron classifiers
 # FOR: CS 5990- Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 minutes
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
